@@ -1,8 +1,8 @@
 ---
-title: LS Wireless
+title: LS Wireless Lab at UC Irvine
 ---
 
-# LS Wireless
+# LS Wireless Lab at UC Irvine
 
 LS Wireless is a research group at the University of California, Irvine, focusing on signal processing, optimization, and machine learning for next-generation wireless communication systems. Our research is motivated by emerging technologies in:
 
